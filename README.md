@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EEC0C3&height=300&section=header&text=안녕하세요%20ミ★&fontSize=30)
-https://readme-typing-svg.demolab.com/demo/?font=Handjet&weight=500&size=30&color=814DFFD8&width=400&lines=Welcome+to+aprnal%27s+GitHub
+!(https://readme-typing-svg.demolab.com/demo/?font=Handjet&weight=500&size=30&color=814DFFD8&width=400&lines=Welcome+to+aprnal%27s+GitHub)
